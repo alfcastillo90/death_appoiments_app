@@ -1,4 +1,4 @@
-# asimov_app
+# death_appointments_app
 
 ## Project setup
 ```
